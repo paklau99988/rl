@@ -11,3 +11,11 @@ https://github.com/facebookresearch/rela
 
 https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail
 
+https://github.com/openai/retro
+
+https://github.com/mwydmuch/ViZDoom
+
+https://github.com/navneet-nmk/Pytorch-RL-CPP
+
+https://github.com/suragnair/alpha-zero-general
+
